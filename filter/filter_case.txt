@@ -1,0 +1,23 @@
+Các trường ko thể null:
+    - id
+    - link
+    - name
+    - rank
+    - final price
+Các trường chấp nhận null:
+    - all tips
+    - total point
+    - first price
+
+Các trường có thể update:
+    name
+    addr
+    all tips
+    total point
+    rank
+
+Các trường hợp lọc null:
+    Xóa bỏ:
+        - link null
+        - cả first price và final price null
+        -

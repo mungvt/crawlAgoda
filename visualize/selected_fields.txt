@@ -1,0 +1,6 @@
+total point
+point detail
+final price ( first price ko biết lấy làm gì ?)
+number of room
+number of reviews
+

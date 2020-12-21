@@ -1,0 +1,14 @@
+root :
+dalat 431
+danang 506
+hanoi 684
+vung tau 264
+hcm 749
+tong 2634
+detail:
+dalat 431
+danang 506
+hanoi 684
+vung tau 264
+hcm 749
+tong 2634

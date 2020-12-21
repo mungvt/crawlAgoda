@@ -1,0 +1,19 @@
+Step 1: Crawl root data
+Crawl data on search page include the following fields:
+    - stt
+    - id
+    - name
+    - link
+    - address
+    - all tips
+    - total point
+    - first price
+    - final price
+    - star
+Concat files
+
+Step 2: Filter
+    - Remove duplicate
+    - Remove null value: total point, final price.
+Step 3: Craw detail data
+    -
